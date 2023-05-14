@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1052239117055",
+    "project_id": "p-schedule",
+    "storage_bucket": "p-schedule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052239117055:android:423c717db02ba77e696aca",
+        "android_client_info": {
+          "package_name": "com.floyd0121.pschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052239117055-303p1j47jfa5pdpqonvl2glelsg2pu5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrCUlvb8YWRqRNNqaUxSJZiLM2KLsr6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052239117055-303p1j47jfa5pdpqonvl2glelsg2pu5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052239117055:android:161724730db30510696aca",
+        "android_client_info": {
+          "package_name": "com.floyd0121.pschedule.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052239117055-303p1j47jfa5pdpqonvl2glelsg2pu5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOrCUlvb8YWRqRNNqaUxSJZiLM2KLsr6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052239117055-303p1j47jfa5pdpqonvl2glelsg2pu5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
